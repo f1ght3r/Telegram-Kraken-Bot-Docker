@@ -5,7 +5,7 @@ Based on [Telegram-Kraken-Bot](https://github.com/Endogen/Telegram-Kraken-Bot).
 ## Overview
 A docker container running [Telegram-Kraken-Bot](https://github.com/Endogen/Telegram-Kraken-Bot) for Telegram app.
 
-##Installation
+## Installation
 
 Clone [Telegram-Kraken-Bot](https://github.com/Endogen/Telegram-Kraken-Bot) into the **same** folder as Telegram-Kraken-Bot-Docker so that your file structure looks like this:
 - Working directory
