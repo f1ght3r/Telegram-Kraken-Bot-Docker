@@ -14,7 +14,7 @@ Clone [Telegram-Kraken-Bot](https://github.com/Endogen/Telegram-Kraken-Bot) into
 
 **Before building the image make sure to follow the configuration part of [Telegram-Kraken-Bot](https://github.com/Endogen/Telegram-Kraken-Bot#configuration)**
 
-After configuration you can build the image using the following command :
+After configuration you can build the image using the following command : <br />
 (make sure your working directory is correct, otherwise the command will fail)
 ```
 docker build -t tag-name .
